@@ -1,3 +1,4 @@
 Once upon a time, in a galaxy far, far away... 
 on a volcanic thermal plant planet, there was a beaten down service bot.
-The bot was downloading files from the deathstar on its mission to retrieve info on the last Jedi 
+The bot was downloading files from the deathstar on its mission to retrieve info on the last Jedi. 
+*Beep beep boop* Almost complete!... Done. Let's take these blueprints to The Resistance.
